@@ -33,8 +33,8 @@ ThreadCraft AI is a powerful Next.js application that leverages AI to generate e
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/threadcraft-ai.git
-   cd threadcraft-ai
+   git clone https://github.com/jossyboydgenius/threadcraft-ai.git
+   cd Threadcraft-AI
    ```
 
 2. Install dependencies:
